@@ -276,6 +276,7 @@ debug.hwui.renderer=skiagl
 debug.renderengine.backend=skiaglthreaded
 debug.cpurend.vsync=false
 debug.sf.disable_client_composition_cache=1
+debug.hwui.use_hint_manager=true
 
 # SurfaceFlinger
 debug.sf.use_phase_offsets_as_durations=1
